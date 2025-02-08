@@ -1,4 +1,9 @@
 # Dual-Link QR Code Generator
+中文版本: [中文](README_ZH.md)
+
+Demo: https://dualqrcode.bravexist.cn/
+
+This project is forked from [zacharyreese/DualQRCode](https://github.com/zacharyreese/DualQRCode).
 
 Embed two URLs inside one QR code
 
